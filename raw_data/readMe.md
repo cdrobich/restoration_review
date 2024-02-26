@@ -1,3 +1,3 @@
 # Data Extraction
-- `data_extraction_2023` - evidence map data extraction
-- `extraction_7Feb24` - data extraction done with KG up until Feb 7, 2024
+- `data_extraction_template` - original template for data extraction
+- `data_extraction_2024_KG_26Feb24` - downloaded from google sheets on Feb 26, 2024; no QA/QC
