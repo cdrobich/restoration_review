@@ -2,10 +2,9 @@
 # Libraries ---------------------------------------------------------------
 library(tidyverse)
 
-
 #Summary of data
 
-data <- read.csv('raw_data/data_extraction_OR_7FEB24.csv')
+data <- read.csv('raw_data/data-extraction-2024-KG-4Mar24-OR.csv')
 
 data <- janitor::clean_names(data)
 
@@ -15,7 +14,8 @@ subset <- data %>%
             filter(include == "Y") %>% 
             select(acc_num:time_since_restoration) # remove notes & variables to work with de-duplicated dataset
 
-dup <- distinct(subset)  # remove duplicates    
+dup <- distinct(subset)  # remove duplicates   
+
 write.csv(dup, "output/duplicates.csv")
 
 
