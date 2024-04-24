@@ -3,3 +3,4 @@
 - `data_extraction_2024_KG_26Feb24` - downloaded from google sheets on Feb 26, 2024; no QA/QC
 - Raw data was downloaded from [google sheets](https://docs.google.com/spreadsheets/d/1huV2dUn7PD9T9jvT9nbovdblMDl8woWl/edit?usp=sharing&ouid=101236760582570084380&rtpof=true&sd=true) periodically
 - `data_extraction_2024_KG_24April2024` is the most up to date version - Kara completed revisions on extraction, all comparator values are coded, but it still requires QA/QC
+- `data-extraction-KG-24April2024_cleanup` - cleaned up using OpenRefine (see 'OpenRefine script' for the changes)
