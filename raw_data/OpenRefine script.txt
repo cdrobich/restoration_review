@@ -1,0 +1,1292 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Califnornia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "California"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "California "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "California"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Colordao"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Colorado"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Connecticuit"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Connecticut"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Delaware/Maryland/Virginia/North Carolina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Delaware, Maryland, Virginia, and North Carolina"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Europe "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Europe"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Gulf of Mexico "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gulf of Mexico"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Iowa "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Iowa"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Lousiana"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Louisiana"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Lousiana "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Louisiana "
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Massachusett "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Massachusetts "
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Massachusetts "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Massachusetts"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Michigan "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Michigan"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Minnesota "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Minnesota"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Mississippi "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mississippi"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "New Brunswick "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "New Brunswick"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "New England "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "New England"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "New Jersey "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "New Jersey"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "New York "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "New York"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "North Dakota "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "North Dakota"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Ohio "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ohio"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Oregon "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Oregon"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Prarie Pothole "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Prairie Pothole Region"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Quebec "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Quebec"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Quebec/New Brunswick"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Quebec, New Brunswick"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Quebec/Ontario"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Quebec, Ontario"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Quebece"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Quebec"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Saskatechwan"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Saskatchewan"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "South Carolina "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "South Carolina"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "South Carolina/Georgia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "South Carolina, Georgia"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "South Eastern Australia within the Yellingbo Nature Conservation Reserve"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "South Eastern Australia"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Virginia "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Virginia"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Geographic Region",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Washington "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Washington"
+      }
+    ],
+    "description": "Mass edit cells in column Geographic Region"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Comparator",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Disturbed, restored"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Disturbed, Restored"
+      }
+    ],
+    "description": "Mass edit cells in column Comparator"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Comparator",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Disturbed, restored, reference"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Disturbed, Restored, Reference"
+      }
+    ],
+    "description": "Mass edit cells in column Comparator"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Comparator",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Reference restored, disturbed"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Disturbed, Restored, Reference"
+      }
+    ],
+    "description": "Mass edit cells in column Comparator"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Comparator",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Reference, disturbed"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reference, Disturbed"
+      }
+    ],
+    "description": "Mass edit cells in column Comparator"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Comparator",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Reference, disturbed, restored "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Disturbed, Restored, Reference"
+      }
+    ],
+    "description": "Mass edit cells in column Comparator"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Comparator",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Reference, restored"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reference, Restored"
+      }
+    ],
+    "description": "Mass edit cells in column Comparator"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Comparator",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Reference, restored, disturbed"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Disturbed, Restored, Reference"
+      }
+    ],
+    "description": "Mass edit cells in column Comparator"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Saline or freshwater",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "freshwater "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "freshwater"
+      }
+    ],
+    "description": "Mass edit cells in column Saline or freshwater"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Saline or freshwater",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "saline "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "saline"
+      }
+    ],
+    "description": "Mass edit cells in column Saline or freshwater"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "ACC_NUM",
+          "columnName": "ACC_NUM",
+          "query": "A198",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Restoration Activity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "installation of a 5-ft (1.5-m) diameter culvert in 1978 and in\n1982 a 7-ft (2. I-m) diameter culvert was added. "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "installation of a 5-ft (1.5-m) diameter culvert in 1978 and in 1982 a 7-ft (2. I-m) diameter culvert was added\n"
+      }
+    ],
+    "description": "Mass edit cells in column Restoration Activity"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "ACC_NUM",
+          "columnName": "ACC_NUM",
+          "query": "A198",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Restoration Activity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "installation of a 5-ft (1.5-m) diameter culvert in 1978 and in 1982 a 7-ft (2. I-m) diameter culvert was added\n"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "installation of a 5-ft (1.5-m) diameter culvert in 1978 and in 1982 a 7-ft (2. I-m) diameter culvert was added"
+      }
+    ],
+    "description": "Mass edit cells in column Restoration Activity"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "ACC_NUM",
+          "columnName": "ACC_NUM",
+          "query": "A198",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Restoration Activity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "installation of a 5-ft (1.5-m) diameter culvert in 1978 and in 1982 a 7-ft (2. I-m) diameter culvert was added. "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "installation of a 5-ft (1.5-m) diameter culvert in 1978 and in 1982 a 7-ft (2. I-m) diameter culvert was added"
+      }
+    ],
+    "description": "Mass edit cells in column Restoration Activity"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "ACC_NUM",
+          "columnName": "ACC_NUM",
+          "query": "A282",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Restoration time period",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "1930, 1978, 1993"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1930, 1978, 1992"
+      }
+    ],
+    "description": "Mass edit cells in column Restoration time period"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "ACC_NUM",
+          "columnName": "ACC_NUM",
+          "query": "A396",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Time Since Restoration",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "4 years, 7 years, 10 years, 16-17 year, 25 years"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "4 years, 7 years, 10 years, 16-17 year, 25 years"
+      }
+    ],
+    "description": "Mass edit cells in column Time Since Restoration"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "ACC_NUM",
+          "columnName": "ACC_NUM",
+          "query": "A396",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Time Since Restoration",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "4 years, 7 years, 10 years, 16-17 year, 25 years "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "4 years, 7 years, 10 years, 16-17 year, 25 years"
+      }
+    ],
+    "description": "Mass edit cells in column Time Since Restoration"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "ACC_NUM",
+          "columnName": "ACC_NUM",
+          "query": "A499",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Restoration time period",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "1997-2010 "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1997-2010"
+      }
+    ],
+    "description": "Mass edit cells in column Restoration time period"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "ACC_NUM",
+          "columnName": "ACC_NUM",
+          "query": "A515",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Restoration time period",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "1997, 1999 "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1997, 1999"
+      }
+    ],
+    "description": "Mass edit cells in column Restoration time period"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "ACC_NUM",
+          "columnName": "ACC_NUM",
+          "query": "A516",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Restoration time period",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "1996, 2002-2005 "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1996, 2002-2005"
+      }
+    ],
+    "description": "Mass edit cells in column Restoration time period"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "ACC_NUM",
+          "columnName": "ACC_NUM",
+          "query": "A519",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Time Since Restoration",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3 years, 15 years "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3 years, 15 years"
+      }
+    ],
+    "description": "Mass edit cells in column Time Since Restoration"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "ACC_NUM",
+          "columnName": "ACC_NUM",
+          "query": "A614",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Restoration Activity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "surface tilling to remove surface debris, partial filling of the drainage ditches with surface debris (mostly wood and peat), construction of a series of bunds along topographic contours, and the spreading of Sphagnum diaspores at a density ratio of approximately 1:11"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "surface tilling to remove surface debris, partial filling of the drainage ditches with surface debris (mostly wood and peat), construction of a series of bunds along topographic contours, and the spreading of Sphagnum diaspores at a density ratio of approximately 1:10"
+      }
+    ],
+    "description": "Mass edit cells in column Restoration Activity"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "ACC_NUM",
+          "columnName": "ACC_NUM",
+          "query": "A618",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Time Since Restoration",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "BDB: 1-3 years, 10 years; BSF: 0-3 years, PLB: 0-1 year, SEB: 1-2 years, WRR: 3 years, PRP: 2 years "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BDB: 1-3 years, 10-15 years; BSF: 0-3 years, PLB: 0-1 year, SEB: 1-2 years, WRR: 3 years, PRP: 2 years "
+      }
+    ],
+    "description": "Mass edit cells in column Time Since Restoration"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "ACC_NUM",
+          "columnName": "ACC_NUM",
+          "query": "A661",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Restoration Activity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "enrollment in conservation project, project wetlands were enhanced or restored natural wetlands, managed with water level manipulation through constructed dikes and periodic drawdowns to mimic natural water fluctuation "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "enrollment in conservation project, project wetlands were enhanced or restored natural wetlands, managed with water level manipulation through constructed dikes and periodic drawdowns to mimic natural water fluctuation"
+      }
+    ],
+    "description": "Mass edit cells in column Restoration Activity"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "ACC_NUM",
+          "columnName": "ACC_NUM",
+          "query": "A661",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Restoration Activity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "enrollment in conservation project,  project wetlands were enhanced or restored natural wetlands, managed with water level manipulation through constructed dikes and periodic drawdowns to mimic natural water fluctuation "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "enrollment in conservation project,  project wetlands were enhanced or restored natural wetlands, managed with water level manipulation through constructed dikes and periodic drawdowns to mimic natural water fluctuation "
+      }
+    ],
+    "description": "Mass edit cells in column Restoration Activity"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "ACC_NUM",
+          "columnName": "ACC_NUM",
+          "query": "A661",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Restoration Activity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "enrollment in conservation project, project wetlands were enhanced or restored natural wetlands, managed with water level manipulation through constructed dikes and periodic drawdowns to mimic natural water fluctuation"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "enrollment in conservation project,  project wetlands were enhanced or restored natural wetlands, managed with water level manipulation through constructed dikes and periodic drawdowns to mimic natural water fluctuation "
+      }
+    ],
+    "description": "Mass edit cells in column Restoration Activity"
+  }
+]
